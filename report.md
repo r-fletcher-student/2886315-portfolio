@@ -1,2 +1,2 @@
 ## What I've Learned
-I've learned how to create basic websites with HTML and CSS. I also now understand how to use the version control Git.
+I've learned how to create basic websites with HTML and CSS. I also now understand how to use the version control Git and GitHub. I also now know how to deploy the website to my personal github.io.
